@@ -1,4 +1,4 @@
-package com.slavacom.TaskB;
+package com.slavacom.lesson1.TaskB;
 
 import java.util.Scanner;
 

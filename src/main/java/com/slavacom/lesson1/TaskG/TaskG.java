@@ -1,4 +1,4 @@
-package com.slavacom.TaskG;
+package com.slavacom.lesson1.TaskG;
 
 import java.io.BufferedReader;
 import java.io.IOException;

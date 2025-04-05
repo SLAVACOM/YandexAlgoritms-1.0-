@@ -1,4 +1,4 @@
-package com.slavacom.TaskC;
+package com.slavacom.lesson1.TaskC;
 
 import java.util.Scanner;
 
