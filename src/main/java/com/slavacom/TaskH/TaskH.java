@@ -1,8 +1,8 @@
-package com.slavacom.TaskC;
+package com.slavacom.TaskH;
 
 import java.util.Scanner;
 
-public class TaskC {
+public class TaskH {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
